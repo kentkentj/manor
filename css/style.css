@@ -61,7 +61,7 @@ body {
 
 [tabindex="-1"]:focus:not(:focus-visible) {
   outline: 0 !important; }
-
+span{color: #BA8965 !important;}
 hr {
   -webkit-box-sizing: content-box;
   box-sizing: content-box;
@@ -8449,13 +8449,13 @@ h1, h2, h3, h4, h5,
           display: none; } }
   .ftco-navbar-light .navbar-nav > .nav-item.cta > a {
     color: #fff;
-    border: 1px solid #d1002c;
+    border: 1px solid #B2812B;
     padding-top: .5rem;
     padding-bottom: .5rem;
     padding-left: 18px;
     padding-right: 18px;
     margin-top: 4px;
-    background: #d1002c;
+    background: #B2812B;
     -webkit-border-radius: 2px;
     -moz-border-radius: 2px;
     -ms-border-radius: 2px;
@@ -8464,16 +8464,16 @@ h1, h2, h3, h4, h5,
       display: inline-block;
       color: #fff; }
     .ftco-navbar-light .navbar-nav > .nav-item.cta > a:hover {
-      background: #d1002c;
-      border: 1px solid #d1002c; }
+      background: #B2812B;
+      border: 1px solid #B2812B; }
   .ftco-navbar-light .navbar-nav > .nav-item.cta.cta-colored a {
     border: 1px solid #fff5ed;
     background: #fff5ed !important; }
   .ftco-navbar-light .navbar-nav > .nav-item.active > a {
-    color: #d1002c; }
+    color: #B2812B; }
   @media (max-width: 991.98px) {
     .ftco-navbar-light .navbar-nav > .nav-item.active > a {
-      color: #d1002c; } }
+      color: #B2812B; } }
   .ftco-navbar-light .navbar-toggler {
     border: none;
     color: rgba(255, 255, 255, 0.5) !important;
